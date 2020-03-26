@@ -1,0 +1,14 @@
+<div class="container intro-container">
+  <h3>Research publications</h3>
+  <div class="row clearfix">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-print-12 details">
+      <ul class="papers_list">
+        {% for paper in site.data.papers %}
+        <li>
+          <a href="{{paper.url}}"">{{ paper.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

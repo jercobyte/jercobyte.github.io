@@ -1,9 +1,24 @@
 # Education Template
-# - layout: left
-#   name: Institution name
-#   dates: Date Range (eg. 2016 - 2019)
-#   qualification: Qualifications (eg. BA Performing Arts)
-#   quote: >
-#     Short institution or course description (optional)
-#   description: | # this will include new lines to allow paragraphs
-#     Description of qualification
+- layout: left
+  name: BSc in Computer Science
+  dates: 2010 - 2014
+  qualification: University of Malaga
+  quote: >
+    Specialization in the major of Information Technology (Distinction)
+  #description: | # this will include new lines to allow paragraphs
+  #  Description of qualification
+- layout: left
+  name: Master’s degree in Computer Sience
+  dates: 2014 - 2016
+  qualification: University of Malaga
+  quote: >
+    Specialization in Data Science and Information Security (Distinction)
+  #description: | # this will include new lines to allow paragraphs
+  #  Description of qualification
+- layout: left
+  name: PhD Degree in Computer Technologies
+  dates: 2016 - present
+  qualification: University of Malaga
+  quote: >
+    Thesis on the Analysis and Design of Security mechanisms in the context of Advanced Persistent Attacks Against Critical Infrastructures
+  #  Description of qualification

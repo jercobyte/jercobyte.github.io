@@ -5,9 +5,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Juan Enrique Rubio
 title: Information Security Researcher
-email: jercobyte@gmail.com
+email: contacto@jercobyte.com
 #phone:
-#website:
+website: https://www.nics.uma.es/rubio
 
 darkmode: false
 
@@ -24,7 +24,8 @@ instagram_username: jercobyte
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
-orcid_username: 0000-0002-7338-9390
+#orcid_username: 0000-0002-7338-9390
+google_scholar_username: 8ah_zWoAAAAJ
 
 # Additional icon links
 # additional_links:
@@ -39,13 +40,14 @@ orcid_username: 0000-0002-7338-9390
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# google_analytics: "UA-00000000-0" (este)
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Mr. Juan Enrique is a PhD student at the University of Malaga, who receives funds from the Spanish Ministry of Education under the FPU program. He obtained the Bachelor's degree in Computer Science in 2014 and the Master's Degree in Computer Science in 2016, both with distinction by the same University. He has been a collaborator in the Department of Computer Science since 2013, and his research activities today are focused on the protection of critical infrastructures. In particular, among its publications, we can highlight the analysis of cybersecurity threats that arise with the paradigm of Industry 4.0 and the concept of Industrial Internet of Things, interconnecting productive processes of all sectors with cutting-edge information and communications technologies. In this sense, Juan Enrique also has works in the design of mechanisms that preserve the privacy of users in the context of Smart Grid, and currently works in national and international projects related to these areas.
+  Hi there! My name is Juan Enrique, and I am a a PhD student at the University of Malaga, who receives funds from the Spanish Ministry of Education under the FPU program. I obtained the Bachelor's degree in Computer Science in 2014 and the Master's Degree in Computer Science in 2016, both with distinction by the same University. I have also been collaborating in the Department of Computer Science since 2013, and my research activities today are focused on the protection of critical infrastructures. In particular, among my publications, I can highlight the analysis of cybersecurity threats that arise with the paradigm of Industry 4.0 and the concept of Industrial Internet of Things, interconnecting productive processes of all sectors with cutting-edge information and communications technologies. In this sense, I also have works in the design of mechanisms that preserve the privacy of users in the context of Smart Grid, and I am currently working in national and international projects related to these areas.
+#  Mr. Juan Enrique is a PhD student at the University of Malaga, who receives funds from the Spanish Ministry of Education under the FPU program. He obtained the Bachelor's degree in Computer Science in 2014 and the Master's Degree in Computer Science in 2016, both with distinction by the same University. He has been a collaborator in the Department of Computer Science since 2013, and his research activities today are focused on the protection of critical infrastructures. In particular, among its publications, we can highlight the analysis of cybersecurity threats that arise with the paradigm of Industry 4.0 and the concept of Industrial Internet of Things, interconnecting productive processes of all sectors with cutting-edge information and communications technologies. In this sense, Juan Enrique also has works in the design of mechanisms that preserve the privacy of users in the context of Smart Grid, and currently works in national and international projects related to these areas.
 
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
