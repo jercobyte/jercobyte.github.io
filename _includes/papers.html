@@ -3,7 +3,8 @@
   <div class="row clearfix">
     <div class="col-xs-12 col-sm-12 col-md-12 col-print-12 details">
       <ul class="papers_list">
-        {% for paper in site.data.papers %}
+        {% assign paper_items = site.data.papers | reverse %}
+        {% for paper in paper_items %}
         <li>
           <a href="{{paper.url}}"">{{ paper.title }}</a>
         </li>

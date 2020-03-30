@@ -1,0 +1,39 @@
+<div class="container projects-container">
+  <h3>Experience and projects</h3>
+  <div class="user-projects">
+    <div class="images-right">
+      <img alt="mountains" src="{{ "/images/adabyron.jpg" | prepend: site.baseurl }}" />
+    </div>
+    <div class="contents">
+      <h3> Research </h3>
+      <p><b>NICS Lab</b></p>
+      <p>{{ site.data.myprojects.research | strip | markdownify}} </p>
+      <a class="project-link" target="_blank" href="https://www.youtube.com/watch?v=hrkjcCXMbJo">Check it out</a>
+    </div>
+  </div>
+  <div class="user-projects">
+    <div class="images-left">
+      <img alt="mountains" src="{{ "/images/teaching.jpg" | prepend: site.baseurl }}" />
+    </div>
+    <div class="contents-right">
+      <h3> Teaching </h3>
+      <p><b>University of Malaga</b></p>
+      <p>{{ site.data.myprojects.teaching | strip | markdownify}}</p>
+      <!-- <a class="project-link" href="#">Check it out</a> -->
+    </div>
+  </div>
+  <div class="user-projects">
+    <div class="images-right">
+      <img alt="mountains" src="{{ "/images/development.jpg" | prepend: site.baseurl }}" />
+      <!-- <div class="iframe-container">
+        <iframe class="video" src="https://www.youtube-nocookie.com/embed/2yHk72ZLCnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div> -->
+    </div>
+    <div class="contents">
+      <h3> Development </h3>
+      <p><b>Matlab, webapps, and more</b></p>
+      <p>{{ site.data.myprojects.development | strip | markdownify}}</p>
+      <a class="project-link" target="_blank" href="https://www.youtube.com/watch?v=2yHk72ZLCnA">Take a look</a>
+    </div>
+  </div>
+</div>

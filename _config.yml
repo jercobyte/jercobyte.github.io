@@ -1,13 +1,13 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Personal info
 name: Juan Enrique Rubio
-title: Information Security Researcher
+title: Cyber Security Researcher
 email: contacto@jercobyte.com
 #phone:
-website: https://www.nics.uma.es/rubio
+website: www.nics.uma.es/rubio
 
 darkmode: false
 
@@ -46,7 +46,7 @@ google_scholar_username: 8ah_zWoAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there! My name is Juan Enrique, and I am a a PhD student at the University of Malaga, who receives funds from the Spanish Ministry of Education under the FPU program. I obtained the Bachelor's degree in Computer Science in 2014 and the Master's Degree in Computer Science in 2016, both with distinction by the same University. I have also been collaborating in the Department of Computer Science since 2013, and my research activities today are focused on the protection of critical infrastructures. In particular, among my publications, I can highlight the analysis of cybersecurity threats that arise with the paradigm of Industry 4.0 and the concept of Industrial Internet of Things, interconnecting productive processes of all sectors with cutting-edge information and communications technologies. In this sense, I also have works in the design of mechanisms that preserve the privacy of users in the context of Smart Grid, and I am currently working in national and international projects related to these areas.
+  Hi there! My name is Juan Enrique, and I am a Ph.D. candidate at the University of Malaga who receives funds from the Spanish Ministry of Education under the FPU program. I obtained a Bachelor's degree in Computer Science in 2014 and my Master's Degree in Computer Science in 2016, both with distinction from the same University. I have also been collaborating in the Department of Computer Science since 2013, and my research activities today are focused on the protection of critical infrastructures. In particular, among my publications, I can highlight the analysis of cybersecurity threats that arise with the paradigm of Industry 4.0 and the concept of Industrial Internet of Things, interconnecting productive processes of all sectors with cutting-edge information and communications technologies. In this sense, I also have conducted studies on the design of mechanisms that preserve the privacy of users in the context of Smart Grid, and I am currently working on national and international projects related to these areas.
 #  Mr. Juan Enrique is a PhD student at the University of Malaga, who receives funds from the Spanish Ministry of Education under the FPU program. He obtained the Bachelor's degree in Computer Science in 2014 and the Master's Degree in Computer Science in 2016, both with distinction by the same University. He has been a collaborator in the Department of Computer Science since 2013, and his research activities today are focused on the protection of critical infrastructures. In particular, among its publications, we can highlight the analysis of cybersecurity threats that arise with the paradigm of Industry 4.0 and the concept of Industrial Internet of Things, interconnecting productive processes of all sectors with cutting-edge information and communications technologies. In this sense, Juan Enrique also has works in the design of mechanisms that preserve the privacy of users in the context of Smart Grid, and currently works in national and international projects related to these areas.
 
 
@@ -70,9 +70,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Woo hoo! Still here? I didn't think you were going to scroll that long. That only means either you want to know more or you are trying to reach me for any other matter. 
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  As for the former, I can just say that I am a hell of a freak, kind of amateur photographer and that I would spend years on a problem until I got it solved. Pigheaded as a mule but shy as a fox, I deeply enjoy spending time with my closest people. I turn out to be very organized and tidy for serious stuff, but not that much for the rest of my mind. Oh, and I love New York.
+
+  As for the latter, please, do not hesitate to contact me at [contacto@jercobyte.com](mailto:contacto@jercobyte.com) or any other network linked in the header. We are in touch!
 
 # Footer
 footer_show_references: true
