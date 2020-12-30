@@ -42,8 +42,17 @@
     Computers & Security Journal, vol. 87, Elsevier, 07/2019. 
   url: https://www.nics.uma.es/biblio/citekey/rub2019cose
 - title: Juan E. Rubio, Rodrigo Roman, and Javier Lopez, "Integration of a Threat Traceability Solution in the Industrial Internet of Things", 
-    IEEE Transactions on Industrial Informatics, IEEE, 02/2020, In Press.
+    IEEE Transactions on Industrial Informatics, vol. 16, issue 10, no. 6575-6583, IEEE, 10/2020.
   url: https://www.nics.uma.es/biblio/citekey/rubio2020iiot
 - title: Juan E. Rubio, Cristina Alcaraz, and Javier Lopez, "Game Theory-Based Approach for Defense against APTs", 
-    18th International Conference on Applied Cryptography and Network Security, In Press.
+    18th International Conference on Applied Cryptography and Network Security (ACNS’20), vol. 12147, Springer, pp. 297-320, 10/2020.
   url: https://www.nics.uma.es/biblio/citekey/1840
+- title: "Juan E. Rubio, Cristina Alcaraz, Ruben Rios, Rodrigo Roman, and Javier Lopez, \"Distributed Detection of APTs: Consensus vs. Clustering\", 
+    25th European Symposium on Research in Computer Security (ESORICS 2020), vol. 12308, pp. 174-192, 09/2020."
+  url: https://www.nics.uma.es/biblio/citekey/1846
+- title: "Cristina Alcaraz, Juan E. Rubio, and Javier Lopez, \"Blockchain-Assisted Access for Federated Smart Grid Domains: Coupling and Features\", 
+    Journal of Parallel and Distributed Computing, vol. 144, Elsevier, pp. 124-135, 06/2020."
+  url: https://www.nics.uma.es/biblio/citekey/alcaraz2020a
+- title: Javier Lopez, Juan E. Rubio, and Cristina Alcaraz, "Digital Twins for Intelligent Authorization in the B5G-enabled Smart Grid", 
+    IEEE Wireless Communications, IEEE, In Press.
+  url: "https://www.nics.uma.es/biblio/citekey/lopez2020"
