@@ -55,3 +55,9 @@ p.supervision {
     border-radius: 5px;
     border: none;
 }
+
+@media only screen and (max-width: 550px) {
+    .user-projects {
+        margin-bottom: 15%;
+    }   
+}
