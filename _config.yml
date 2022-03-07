@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: Juan Enrique Rubio
 title: ICS Cybersecurity Consultant
-email: contacto@jercobyte.com
+email: info@jercobyte.com
 #phone:
 #website: www.nics.uma.es/rubio
 
@@ -74,7 +74,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   As for the former, I can just say that I am a hell of a freak, kind of amateur photographer and that I would spend years on a problem until I got it solved. Pigheaded as a mule but shy as a fox, I deeply enjoy spending time with my closest people. I turn out to be very organized and tidy for serious stuff, but not that much for the rest of my mind. Oh, and I love New York.
 
-  As for the latter, please, do not hesitate to contact me at [contacto@jercobyte.com](mailto:contacto@jercobyte.com) or any other network linked in the header. We are in touch!
+  As for the latter, please, do not hesitate to contact me at [info@jercobyte.com](mailto:info@jercobyte.com) or any other network linked in the header. We are in touch!
 
 # Footer
 footer_show_references: true
